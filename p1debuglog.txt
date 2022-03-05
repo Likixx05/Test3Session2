@@ -1,1 +1,10 @@
+  pwd
+/home/runner/Test3Session2
+ gcc -g p1final.c
+ ./a.out
+Enter the numerator of 1st fraction:2
+Enter the denominator of 1st fraction3
+Enter the numerator of 1st fraction5
+Enter the denominator of 2nd fraction6
+So the sum of 2/3+5/6=3/2 
 
